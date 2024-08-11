@@ -1,2 +1,2 @@
 ## Mmm nice coffee
-You can fiddle with the DEGRADATION variable to essentially produce the most steam with 0, average amount with 1 and low with 1.5 and above.
+![](https://github.com/vaclavek-kamil/go_ascii_coffee/blob/main/demo.gif)
