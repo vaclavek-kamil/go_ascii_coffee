@@ -12,8 +12,8 @@ func main() {
 	var shader [10][14]int
 	const MAX_HEALTH int = 11
 	const MIN_HEALTH int = 4
-	const DEGRADATION = 1.2
-	const FPS = 3
+	const DEGRADATION = 0.8
+	const FPS = 4
 	const lpad = "    "
 	ASCII := [14]string{" ", ".", ",", "-", "*", ";", "!", "|", "l", "I", "§", "%"}
 	for {
